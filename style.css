@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.compny{
+    background-color: darkgray;
+    height: 149px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.hader{
+
+  background-color: darkgray;
+height: 125px;
+text-align: center;
+
+}
+
+.container{
+
+display: flex;
+margin-top: 5px;
+
+
+
+
+} 
+
+
+
+
+.nav{
+    background-color: darkgray;
+    height: 50px;
+    text-align: center;
+    width: 25%;
+
+    
+} 
+
+.one{
+    background-color: aquamarine;
+    width: 25%;
+    height: 50px;
+  
+margin-left: 2px;
+}
+
+.about{
+
+    height: 250px;
+    margin-right: 5px;
+ background-color: gray;
+ text-align: center;
+
+
+}
+
+.link{
+
+    height: 139px;
+ background-color: gray;
+ text-align: center;
+}
+
+.link1{
+    margin-top: 5px;
+    background-color: grey;
+    height: 105px;
+}
+
+
+
+
+
+
+
+
+
